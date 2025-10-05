@@ -1,3 +1,5 @@
 # Ansible Projects
 
-This folder contains all Ansible automation projects all the Screenshots are Added in Drive and Link for drive is attached to every Project README.md file.
+This folder contains all Ansible automation projects all the SCREENSHOTS OF PROJECTS ARE UPLOADED IN THIS DRIVE 
+
+---> https://drive.google.com/drive/folders/1-KbMhctAexW3ZEVqunze4mAQBDcocke6?usp=sharing
