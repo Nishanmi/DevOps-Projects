@@ -27,7 +27,7 @@ To deploy two web applications (Apache and NGINX) on a Kubernetes cluster using 
 ---
 
 ## Screenshots (Google Drive Links)
--->
+-->  https://drive.google.com/drive/folders/1n8lxnUGS5XejJTqLvQObqzRjoB--uJzL?usp=sharing
 
 ## Notes
 - The cluster was deleted after completion.  
