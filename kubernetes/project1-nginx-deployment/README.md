@@ -10,7 +10,7 @@ Deploy a Kubernetes cluster with 3 nodes and create an NGINX deployment with 3 r
 4. Verified pods and service.
 
 ## Screenshots (Google Drive Links)
---> 
+--> https://drive.google.com/drive/folders/1n8lxnUGS5XejJTqLvQObqzRjoB--uJzL?usp=sharing
 
 ## Notes
 - The cluster was deleted after completion.  
