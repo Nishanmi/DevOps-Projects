@@ -1,0 +1,9 @@
+---
+- name: Install Java on Slave 1
+  hosts: slave1
+  become: yes
+  tasks:
+    - name: Install Java
+      package:
+        name: java-1.8.0-openjdk
+        state: present
