@@ -14,7 +14,7 @@ Deploy a Kubernetes cluster with NGINX as a Deployment of 3 replicas and expose 
 - [`nodeport.yaml`](nodeport.yaml)
 
 ## Screenshots (Google Drive Links)
---> 
+-->  https://drive.google.com/drive/folders/1n8lxnUGS5XejJTqLvQObqzRjoB--uJzL?usp=sharing
 
 ## Notes
 - The cluster was deleted after completion.  
