@@ -1,0 +1,15 @@
+---
+- name: Install MySQL on Slave 2
+  hosts: slave2
+  become: yes
+  tasks:
+    - name: Install MySQL Server
+      package:
+        name: mysql-server
+        state: present
+
+    - name: Start and enable MySQL service
+      service:
+        name: mysqld
+        state: started
+        enabled: yes
