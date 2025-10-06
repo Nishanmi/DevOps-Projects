@@ -1,0 +1,13 @@
+- name: java and kubernetes installation for master
+  hosts: master
+  become: true
+  tasks:
+    - name: Master installation
+      script: master.sh
+
+- name: java and kubernetes installation for slaves
+  hosts: slaves
+  become: true
+  tasks:
+    - name: Slaves installation
+      script: slaves.sh
