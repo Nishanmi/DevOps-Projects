@@ -87,4 +87,4 @@ jenkins pipeline script -  Jenkinsfile
 
 7. Screenshots of the Projects are Uploaded In this Drive.
 
-   ---> 
+   --->  https://docs.google.com/document/d/1jkhLpQWdd6RXZ2OnLS0P1EjmO4VouuiN/edit?usp=sharing&ouid=103624519870238324874&rtpof=true&sd=true
