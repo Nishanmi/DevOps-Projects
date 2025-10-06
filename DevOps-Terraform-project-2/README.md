@@ -1,7 +1,12 @@
 # TerraformLifecycle – DevOps Lifecycle Project
 
-## Project Objective
+## Project Architecture
 
+<img width="1176" height="751" alt="Screenshot 2025-10-06 144146" src="https://github.com/user-attachments/assets/2bbb22f5-895e-4c07-98f8-efc5505d1377" />
+
+<img width="803" height="667" alt="Screenshot 2025-10-06 144205" src="https://github.com/user-attachments/assets/c43fb828-e88b-4616-83ce-6c4dcbeb0b36" />
+
+## Project Objective
 The objective of this project is to implement a **complete DevOps lifecycle**, automating the deployment, scaling, and management of containerized applications. Key goals include:
 
 - Automating infrastructure provisioning on AWS using Terraform.
